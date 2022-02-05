@@ -12,6 +12,6 @@ https://jlparker3.github.io/CSS-Cheatsheet/
 
 
 # Credits
-Jessica Parker, 2022
+Jessica Parker, 2022 </br>
 Header -- https://fossheim.io/writing/posts/css-text-gradient
 
